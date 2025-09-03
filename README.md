@@ -53,7 +53,7 @@ A cutting-edge React Native application that leverages Google's Gemini AI to pro
 ### 1. Clone and Install
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Chittaranjans/AI-Advisor
 cd AIProductAdvisor
 
 # Install dependencies
